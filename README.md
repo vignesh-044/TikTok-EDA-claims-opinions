@@ -1,4 +1,3 @@
-```
 # TikTok Data Analysis Project
 
 This project is a data analysis notebook focused on TikTok-related data. It uses Python to explore, clean, and visualize insights from a dataset containing information about TikTok videos and user engagement.
