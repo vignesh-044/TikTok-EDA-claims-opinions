@@ -27,7 +27,6 @@ This data helps analyze trends, performance metrics, and audience engagement on 
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly (if used)
 - Jupyter Notebook
 
 ##  Key Tasks Performed
